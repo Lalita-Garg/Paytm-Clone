@@ -23,19 +23,16 @@ I created this paytm clone website responsive with diffrent size of screens. Thi
 
 
 ## Desktop view
+https://user-images.githubusercontent.com/111582082/197241804-c82d9ec3-5064-4610-9638-e9ec8419f498.mp4
 
 ## Tablet View
-
+https://user-images.githubusercontent.com/111582082/197241121-b44ac0aa-8414-445c-8609-b2574c0a8e94.mp4
 
 ## Mobile View
-
-
-
-
+https://user-images.githubusercontent.com/111582082/197242143-a0f29150-d645-4485-a4d4-4ecbe37e3a00.mp4
 
 ## Technologies Used 
 ***
-
 ![CSS](	https://img.shields.io/badge/HTML-Tailwind%20CSS-orange)
 
 
